@@ -397,11 +397,11 @@
         <p>User Management</p>
         <a href="manage-users.html"> &nbsp; Manage Users</a>
         <a href="manage-volunteers.html"> &nbsp; Manage Volunteers</a>
-        <a href="manage-donations.html"> &nbsp; Manage Donors</a>
+        <a href="manage-donors.html"> &nbsp; Manage Donors</a>
 
         <p>NGO Activities</p>
         <a href="manage-donations.html"> &nbsp; Manage Donations</a>
-        <a href="events.html"> &nbsp; Manage Events</a>
+        <a href="manage-events.html"> &nbsp; Manage Events</a>
 
         <p>Website</p>
         <a href="index.html"> &nbsp; Visit Website</a>
